@@ -1,13 +1,13 @@
 
 /**
- * Beschreiben Sie hier die Klasse AFFE.
+ * 33
  * 
  * @author (Ihr Name) 
  * @version (eine Versionsnummer oder ein Datum)
  */
 public class AFFE implements TIER
 {
-    private String name;
+    private String name;//TEst
     // Instanzvariablen - ersetzen Sie das folgende Beispiel mit Ihren Variablen
     /**
      * Konstruktor für Objekte der Klasse ESEL
